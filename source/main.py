@@ -1,0 +1,7 @@
+#!/bin/python
+
+print("Hello world")
+i = 0
+while True:
+    i = i + 1
+    print("world" * i)
